@@ -1,0 +1,12 @@
+C:\Users\ufukb\Desktop\asp-net-core-in-dotnet-6-dependency-injection-04_03b\source\Libraries\DotNet6.Di.Libraries.Services\bin\Debug\net6.0\DotNet6.Di.Libraries.Services.deps.json
+C:\Users\ufukb\Desktop\asp-net-core-in-dotnet-6-dependency-injection-04_03b\source\Libraries\DotNet6.Di.Libraries.Services\bin\Debug\net6.0\DotNet6.Di.Libraries.Services.dll
+C:\Users\ufukb\Desktop\asp-net-core-in-dotnet-6-dependency-injection-04_03b\source\Libraries\DotNet6.Di.Libraries.Services\bin\Debug\net6.0\DotNet6.Di.Libraries.Services.pdb
+C:\Users\ufukb\Desktop\asp-net-core-in-dotnet-6-dependency-injection-04_03b\source\Libraries\DotNet6.Di.Libraries.Services\obj\Debug\net6.0\DotNet6.Di.Libraries.Services.csproj.AssemblyReference.cache
+C:\Users\ufukb\Desktop\asp-net-core-in-dotnet-6-dependency-injection-04_03b\source\Libraries\DotNet6.Di.Libraries.Services\obj\Debug\net6.0\DotNet6.Di.Libraries.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufukb\Desktop\asp-net-core-in-dotnet-6-dependency-injection-04_03b\source\Libraries\DotNet6.Di.Libraries.Services\obj\Debug\net6.0\DotNet6.Di.Libraries.Services.AssemblyInfoInputs.cache
+C:\Users\ufukb\Desktop\asp-net-core-in-dotnet-6-dependency-injection-04_03b\source\Libraries\DotNet6.Di.Libraries.Services\obj\Debug\net6.0\DotNet6.Di.Libraries.Services.AssemblyInfo.cs
+C:\Users\ufukb\Desktop\asp-net-core-in-dotnet-6-dependency-injection-04_03b\source\Libraries\DotNet6.Di.Libraries.Services\obj\Debug\net6.0\DotNet6.Di.Libraries.Services.csproj.CoreCompileInputs.cache
+C:\Users\ufukb\Desktop\asp-net-core-in-dotnet-6-dependency-injection-04_03b\source\Libraries\DotNet6.Di.Libraries.Services\obj\Debug\net6.0\DotNet6.Di.Libraries.Services.dll
+C:\Users\ufukb\Desktop\asp-net-core-in-dotnet-6-dependency-injection-04_03b\source\Libraries\DotNet6.Di.Libraries.Services\obj\Debug\net6.0\refint\DotNet6.Di.Libraries.Services.dll
+C:\Users\ufukb\Desktop\asp-net-core-in-dotnet-6-dependency-injection-04_03b\source\Libraries\DotNet6.Di.Libraries.Services\obj\Debug\net6.0\DotNet6.Di.Libraries.Services.pdb
+C:\Users\ufukb\Desktop\asp-net-core-in-dotnet-6-dependency-injection-04_03b\source\Libraries\DotNet6.Di.Libraries.Services\obj\Debug\net6.0\ref\DotNet6.Di.Libraries.Services.dll
